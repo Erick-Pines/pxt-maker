@@ -98,7 +98,8 @@
         "libs/bead-motion",
         "libs/bead-tattoo",
         "libs/bead-proximity",
-        "libs/bead-environment"
+        "libs/bead-environment",
+        "libs/brainmx"
     ],
     "serial": {
         "useHF2": true,

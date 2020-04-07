@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" fill-rule="evenodd" clip-rule="evenodd" id="czArB4f3ahbGUcxneAsc_top" viewBox="50 50 1251.97 1251.97" width="120.189" height="120.189" class="w-100 h-100">
   <defs id="defs13619">
-    <path id="YA5HTvBcxYogAg7uiNJu_pad-606" d="M-9.29-.09H9.29v.18H-9.29z"/>
-    <path id="YA5HTvBcxYogAg7uiNJu_pad-607" d="M-8.47-.09H8.47v.18H-8.47z"/>
+    <path id="EV_2uED9sVlFafHIYAI3_pad-10" d="M-19.685-21.655h39.37v43.31h-39.37z"/>
+    <path id="EV_2uED9sVlFafHIYAI3_pad-11" d="M-9.845-11.81h19.69v23.62h-19.69z"/>
     <path id="EV_2uED9sVlFafHIYAI3_pad-12" d="M-13.78-13.78h27.56v27.56h-27.56z"/>
     <path id="EV_2uED9sVlFafHIYAI3_pad-13" d="M-31.495-13.78h62.99v27.56h-62.99z"/>
     <path id="JmadwTqGDguTvGb9Vc-y_pad-10" d="M-23.685-25.655h47.37v51.31h-47.37z"/>
@@ -9,7 +9,6 @@
     <path id="JmadwTqGDguTvGb9Vc-y_pad-12" d="M-18.765-18.765h37.53v37.53h-37.53z"/>
     <path id="JmadwTqGDguTvGb9Vc-y_pad-13" d="M-63.055-23.685h126.11v47.37h-126.11z"/>
     <path id="JmadwTqGDguTvGb9Vc-y_pad-14" d="M-23.685-63.055h47.37v126.11h-47.37z"/>
-    <path id="k-MLQmEzCeMVAP1GTyBy_pad-16" d="M-31.495-13.78h62.99v27.56h-62.99z"/>
     <path id="JmadwTqGDguTvGb9Vc-y_pad-16" d="M-17.78-17.78h35.56v35.56h-35.56z"/>
     <path id="JmadwTqGDguTvGb9Vc-y_pad-17" d="M-35.495-17.78h70.99v35.56h-70.99z"/>
     <path id="YA5HTvBcxYogAg7uiNJu_pad-12" d="M-75.965-.09h151.93v.18h-151.93z"/>
@@ -601,13 +600,13 @@
     <path id="YA5HTvBcxYogAg7uiNJu_pad-598" d="M-11.295-.09h22.59v.18h-22.59z"/>
     <path id="YA5HTvBcxYogAg7uiNJu_pad-599" d="M-6.92-.09H6.92v.18H-6.92z"/>
     <path id="YA5HTvBcxYogAg7uiNJu_pad-600" d="M-11.475-.09h22.95v.18h-22.95z"/>
-    <path id="EV_2uED9sVlFafHIYAI3_pad-11" d="M-9.845-11.81h19.69v23.62h-19.69z"/>
+    <path id="YA5HTvBcxYogAg7uiNJu_pad-601" d="M-8.29-.09H8.29v.18H-8.29z"/>
     <path id="YA5HTvBcxYogAg7uiNJu_pad-602" d="M-12.39-.09h24.78v.18h-24.78z"/>
     <path id="YA5HTvBcxYogAg7uiNJu_pad-603" d="M-8.105-.09h16.21v.18h-16.21z"/>
     <path id="YA5HTvBcxYogAg7uiNJu_pad-604" d="M-12.75-.09h25.5v.18h-25.5z"/>
     <path id="YA5HTvBcxYogAg7uiNJu_pad-605" d="M-4.28-.09h8.56v.18h-8.56z"/>
-    <path id="EV_2uED9sVlFafHIYAI3_pad-10" d="M-19.685-21.655h39.37v43.31h-39.37z"/>
-    <path id="YA5HTvBcxYogAg7uiNJu_pad-601" d="M-8.29-.09H8.29v.18H-8.29z"/>
+    <path id="YA5HTvBcxYogAg7uiNJu_pad-606" d="M-9.29-.09H9.29v.18H-9.29z"/>
+    <path id="YA5HTvBcxYogAg7uiNJu_pad-607" d="M-8.47-.09H8.47v.18H-8.47z"/>
     <path id="YA5HTvBcxYogAg7uiNJu_pad-608" d="M-13.66-.09h27.32v.18h-27.32z"/>
     <path id="YA5HTvBcxYogAg7uiNJu_pad-609" d="M-5.28-.09H5.28v.18H-5.28z"/>
     <path id="YA5HTvBcxYogAg7uiNJu_pad-610" d="M-13.845-.09h27.69v.18h-27.69z"/>
@@ -1108,6 +1107,104 @@
     <path id="k-MLQmEzCeMVAP1GTyBy_pad-13" d="M-59.055-19.685h118.11v39.37h-118.11z"/>
     <path id="k-MLQmEzCeMVAP1GTyBy_pad-14" d="M-19.685-59.055h39.37v118.11h-39.37z"/>
     <path id="k-MLQmEzCeMVAP1GTyBy_pad-15" d="M-13.78-13.78h27.56v27.56h-27.56z"/>
+    <path id="k-MLQmEzCeMVAP1GTyBy_pad-16" d="M-31.495-13.78h62.99v27.56h-62.99z"/>
+    <g id="czArB4f3ahbGUcxneAsc_top_solderpaste">
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="364.96" y="685.83" id="use1116"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="364.96" y="752.76" id="use1118"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="595.28" y="878.74" id="use1120"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="595.28" y="945.67" id="use1122"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="756.69" y="945.67" id="use1124"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="756.69" y="878.74" id="use1126"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="916.14" y="758.66" id="use1128"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="955.51" y="758.66" id="use1130"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="955.51" y="715.35" id="use1132"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="916.14" y="715.35" id="use1134"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="916.14" y="636.61" id="use1136"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="955.51" y="636.61" id="use1138"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="955.51" y="593.31" id="use1140"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="916.14" y="593.31" id="use1142"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="546.06" y="632.68" id="use1144"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="506.69" y="632.68" id="use1146"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="506.69" y="675.98" id="use1148"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="546.06" y="675.98" id="use1150"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="546.06" y="719.29" id="use1152"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="506.69" y="719.29" id="use1154"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-12" x="242.91" y="274.41" id="use1156"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-12" x="242.91" y="337.4" id="use1158"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-12" x="368.9" y="337.4" id="use1160"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-12" x="368.9" y="274.41" id="use1162"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="614.96" y="634.65" id="use1164"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="614.96" y="675.98" id="use1166"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="614.96" y="717.32" id="use1168"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="737.01" y="717.32" id="use1170"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="737.01" y="675.98" id="use1172"/>
+      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="737.01" y="634.65" id="use1174"/>
+    </g>
+    <g id="czArB4f3ahbGUcxneAsc_top_soldermask">
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="364.96" y="685.83" id="use1177"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="364.96" y="752.76" id="use1179"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="595.28" y="878.74" id="use1181"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="595.28" y="945.67" id="use1183"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="756.69" y="945.67" id="use1185"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="756.69" y="878.74" id="use1187"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="916.14" y="758.66" id="use1189"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="955.51" y="758.66" id="use1191"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="955.51" y="715.35" id="use1193"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="916.14" y="715.35" id="use1195"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="916.14" y="636.61" id="use1197"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="955.51" y="636.61" id="use1199"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="955.51" y="593.31" id="use1201"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="916.14" y="593.31" id="use1203"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="546.06" y="632.68" id="use1205"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="506.69" y="632.68" id="use1207"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="506.69" y="675.98" id="use1209"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="546.06" y="675.98" id="use1211"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="546.06" y="719.29" id="use1213"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="506.69" y="719.29" id="use1215"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="950.57" y="955.51" id="use1217"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="987.01" y="955.51" id="use1219"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="1050" y="955.51" id="use1221"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="1086.43" y="955.51" id="use1223"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="1086.43" y="1034.25" id="use1225"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="1050" y="1034.25" id="use1227"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="987.01" y="1034.25" id="use1229"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="950.57" y="1034.25" id="use1231"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="1164.17" y="833.46" id="use1233"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="1164.17" y="754.72" id="use1235"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="1164.17" y="675.98" id="use1237"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="1164.17" y="597.24" id="use1239"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="1164.17" y="518.5" id="use1241"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="187.8" y="518.5" id="use1243"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="187.8" y="597.24" id="use1245"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="187.8" y="675.98" id="use1247"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="187.8" y="754.72" id="use1249"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="187.8" y="833.46" id="use1251"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="518.5" y="1164.17" id="use1253"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="597.24" y="1164.17" id="use1255"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="675.98" y="1164.17" id="use1257"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="754.72" y="1164.17" id="use1259"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="833.46" y="1164.17" id="use1261"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="833.46" y="187.8" id="use1263"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="754.72" y="187.8" id="use1265"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="675.98" y="187.8" id="use1267"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="597.24" y="187.8" id="use1269"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="518.5" y="187.8" id="use1271"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="1010.63" y="187.8" id="use1273"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="1089.37" y="187.8" id="use1275"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="1168.11" y="187.8" id="use1277"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-15" x="144.49" y="144.49" id="use1279"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-15" x="1207.48" y="1207.48" id="use1281"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-16" x="368.9" y="337.4" id="use1283"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-16" x="368.9" y="274.41" id="use1285"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-16" x="242.91" y="274.41" id="use1287"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-16" x="242.91" y="337.4" id="use1289"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="614.96" y="634.65" id="use1291"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="614.96" y="675.98" id="use1293"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="614.96" y="717.32" id="use1295"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="737.01" y="717.32" id="use1297"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="737.01" y="675.98" id="use1299"/>
+      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="737.01" y="634.65" id="use1301"/>
+    </g>
     <g id="czArB4f3ahbGUcxneAsc_top_silkscreen">
       <path d="M97.88 909.77l-7.01 7v14.02m14.01 0v-14.02l-7-7m15.09 0h14.01m-7.01 0v21.02l-7-7.01m22.1-10.51h3.5v-3.5h-3.5v3.5m11.05-3.5h14.01m-7.01 0v21.02l-7-7.01m22.1-10.51h3.5v-3.5h-3.5v3.5m11.05 0v14.01l3.5 3.51h7l3.51-3.51-14.01-14.01 3.5-3.5h7l3.51 3.5v14.01" fill="none" stroke-width="3" id="path1304"/>
       <path d="M224.2 413.99h17.52l5.83-5.84v-11.68l-5.83-5.84H224.2m0-11.67v35.03m11.68-23.36l11.67-11.67m13.48 0h23.36m13.47 5.83l5.84-5.83h11.68l5.84 5.83v5.84l-5.84 5.84H303.7l-5.84 5.84v5.84l5.84 5.84h11.68l5.84-5.84m13.48 5.84v-35.03h23.35m-11.68 17.51H334.7m0 17.52h23.35m13.48 0h23.35m-11.68 0v-35.03m-98.81 35.03h-23.36v-35.03m0 17.51h11.68" fill="none" stroke-width="5" id="path1306"/>
@@ -7259,107 +7356,10 @@
       <use xlink:href="#TsKAPV81QiDe_s_YfuUQ_pad-2" x="1444.9" y="1444.9" id="use13592"/>
       <use xlink:href="#TsKAPV81QiDe_s_YfuUQ_pad-2" x="12074.8" y="12074.8" id="use13594"/>
     </g>
-    <g id="czArB4f3ahbGUcxneAsc_top_solderpaste">
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="364.96" y="685.83" id="use1116"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="364.96" y="752.76" id="use1118"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="595.28" y="878.74" id="use1120"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="595.28" y="945.67" id="use1122"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="756.69" y="945.67" id="use1124"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-10" x="756.69" y="878.74" id="use1126"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="916.14" y="758.66" id="use1128"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="955.51" y="758.66" id="use1130"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="955.51" y="715.35" id="use1132"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="916.14" y="715.35" id="use1134"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="916.14" y="636.61" id="use1136"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="955.51" y="636.61" id="use1138"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="955.51" y="593.31" id="use1140"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="916.14" y="593.31" id="use1142"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="546.06" y="632.68" id="use1144"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="506.69" y="632.68" id="use1146"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="506.69" y="675.98" id="use1148"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="546.06" y="675.98" id="use1150"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="546.06" y="719.29" id="use1152"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-11" x="506.69" y="719.29" id="use1154"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-12" x="242.91" y="274.41" id="use1156"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-12" x="242.91" y="337.4" id="use1158"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-12" x="368.9" y="337.4" id="use1160"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-12" x="368.9" y="274.41" id="use1162"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="614.96" y="634.65" id="use1164"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="614.96" y="675.98" id="use1166"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="614.96" y="717.32" id="use1168"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="737.01" y="717.32" id="use1170"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="737.01" y="675.98" id="use1172"/>
-      <use xlink:href="#EV_2uED9sVlFafHIYAI3_pad-13" x="737.01" y="634.65" id="use1174"/>
-    </g>
-    <g id="czArB4f3ahbGUcxneAsc_top_soldermask">
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="364.96" y="685.83" id="use1177"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="364.96" y="752.76" id="use1179"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="595.28" y="878.74" id="use1181"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="595.28" y="945.67" id="use1183"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="756.69" y="945.67" id="use1185"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-10" x="756.69" y="878.74" id="use1187"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="916.14" y="758.66" id="use1189"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="955.51" y="758.66" id="use1191"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="955.51" y="715.35" id="use1193"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="916.14" y="715.35" id="use1195"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="916.14" y="636.61" id="use1197"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="955.51" y="636.61" id="use1199"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="955.51" y="593.31" id="use1201"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="916.14" y="593.31" id="use1203"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="546.06" y="632.68" id="use1205"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="506.69" y="632.68" id="use1207"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="506.69" y="675.98" id="use1209"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="546.06" y="675.98" id="use1211"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="546.06" y="719.29" id="use1213"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-11" x="506.69" y="719.29" id="use1215"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="950.57" y="955.51" id="use1217"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="987.01" y="955.51" id="use1219"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="1050" y="955.51" id="use1221"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="1086.43" y="955.51" id="use1223"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="1086.43" y="1034.25" id="use1225"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="1050" y="1034.25" id="use1227"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="987.01" y="1034.25" id="use1229"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-12" x="950.57" y="1034.25" id="use1231"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="1164.17" y="833.46" id="use1233"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="1164.17" y="754.72" id="use1235"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="1164.17" y="675.98" id="use1237"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="1164.17" y="597.24" id="use1239"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="1164.17" y="518.5" id="use1241"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="187.8" y="518.5" id="use1243"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="187.8" y="597.24" id="use1245"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="187.8" y="675.98" id="use1247"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="187.8" y="754.72" id="use1249"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-13" x="187.8" y="833.46" id="use1251"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="518.5" y="1164.17" id="use1253"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="597.24" y="1164.17" id="use1255"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="675.98" y="1164.17" id="use1257"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="754.72" y="1164.17" id="use1259"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="833.46" y="1164.17" id="use1261"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="833.46" y="187.8" id="use1263"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="754.72" y="187.8" id="use1265"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="675.98" y="187.8" id="use1267"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="597.24" y="187.8" id="use1269"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="518.5" y="187.8" id="use1271"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="1010.63" y="187.8" id="use1273"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="1089.37" y="187.8" id="use1275"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-14" x="1168.11" y="187.8" id="use1277"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-15" x="144.49" y="144.49" id="use1279"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-15" x="1207.48" y="1207.48" id="use1281"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-16" x="368.9" y="337.4" id="use1283"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-16" x="368.9" y="274.41" id="use1285"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-16" x="242.91" y="274.41" id="use1287"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-16" x="242.91" y="337.4" id="use1289"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="614.96" y="634.65" id="use1291"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="614.96" y="675.98" id="use1293"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="614.96" y="717.32" id="use1295"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="737.01" y="717.32" id="use1297"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="737.01" y="675.98" id="use1299"/>
-      <use xlink:href="#JmadwTqGDguTvGb9Vc-y_pad-17" x="737.01" y="634.65" id="use1301"/>
-    </g>
-    <circle cx="0" cy="0" r="6" id="TsKAPV81QiDe_s_YfuUQ_pad-1"/>
-    <circle cx="0" cy="0" r="10" id="k-MLQmEzCeMVAP1GTyBy_pad-18"/>
-    <circle cx="0" cy="0" r="45.275" id="TsKAPV81QiDe_s_YfuUQ_pad-2"/>
     <circle cx="0" cy="0" r="49.275" id="JmadwTqGDguTvGb9Vc-y_pad-15"/>
+    <circle cx="0" cy="0" r="10" id="k-MLQmEzCeMVAP1GTyBy_pad-18"/>
+    <circle cx="0" cy="0" r="6" id="TsKAPV81QiDe_s_YfuUQ_pad-1"/>
+    <circle cx="0" cy="0" r="45.275" id="TsKAPV81QiDe_s_YfuUQ_pad-2"/>
     <mask id="czArB4f3ahbGUcxneAsc_top_mech-mask">
       <g fill="#000" stroke="#000" id="g13604">
         <path fill="#fff" id="rect13600" d="M50 50h1251.97v1251.97H50z"/>
